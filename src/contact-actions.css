@@ -1,0 +1,125 @@
+/* Calling, WhatsApp and booking share the CivicQC button system. */
+.call-button {
+  gap: 9px;
+}
+.call-button > svg {
+  flex-shrink: 0;
+}
+.floating-call {
+  position: fixed;
+  right: 25px;
+  bottom: 91px;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 53px;
+  height: 53px;
+  border: 1px solid #537b88;
+  border-radius: 50%;
+  background: #102735;
+  color: #b4f2e8;
+  box-shadow: 0 4px 20px #0a272729;
+  transition:
+    background 300ms ease,
+    transform 300ms ease;
+}
+.floating-call:hover {
+  background: #204451;
+  transform: translateY(-2px);
+}
+.floating-call:hover .floating-tooltip,
+.floating-call:focus-visible .floating-tooltip {
+  opacity: 1;
+  transform: translateX(0);
+}
+.floating-call:focus-visible {
+  outline: 2px solid #7ce0d1;
+  outline-offset: 4px;
+}
+.cta-contact-actions > span,
+.cta-contact-actions > .call-button {
+  grid-column: 1 / -1;
+}
+
+@media (min-width: 761px) and (max-width: 1024px) {
+  .hero-contact-actions .btn {
+    padding-inline: 16px;
+  }
+}
+@media (max-width: 760px) {
+  .floating-call {
+    display: none;
+  }
+  .mobile-contact-actions {
+    grid-template-columns: 1.25fr 1fr 1fr;
+    gap: 7px;
+    padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+  }
+  .mobile-contact-actions > a {
+    min-width: 0;
+    min-height: 46px;
+    gap: 6px;
+    padding: 10px 6px;
+    white-space: nowrap;
+    font-size: 11px;
+  }
+  .mobile-contact-actions > a > svg {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+  }
+  .mobile-contact-actions > .mobile-quick-call {
+    color: #164c4e;
+    background: #edf6f2;
+    border: 1px solid #bad8cc;
+  }
+  .mobile-contact-actions > a:focus-visible {
+    outline: 2px solid #17695e;
+    outline-offset: 2px;
+  }
+  .hero-contact-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    max-width: 460px;
+    gap: 10px;
+  }
+  .hero-contact-actions > .btn:first-child {
+    grid-column: 1 / -1;
+  }
+  .hero-contact-actions > .btn {
+    width: 100%;
+    min-height: 47px;
+    font-size: 12px;
+  }
+  .cta-contact-actions {
+    grid-template-columns: 1fr;
+  }
+  .cta-contact-actions > .btn {
+    width: 100%;
+  }
+}
+@media (max-width: 355px) {
+  .mobile-contact-actions {
+    gap: 6px;
+    padding-inline: 9px;
+  }
+  .mobile-contact-actions > a {
+    font-size: 10px;
+    gap: 5px;
+    padding-inline: 5px;
+  }
+  .mobile-contact-actions > a > svg {
+    width: 15px;
+    height: 15px;
+  }
+  .hero-contact-actions > .btn {
+    font-size: 11px;
+  }
+}
+@media print {
+  .floating-call {
+    display: none !important;
+  }
+}

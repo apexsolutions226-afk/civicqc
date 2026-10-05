@@ -1,0 +1,172 @@
+{
+  "label": "ILLUSTRATIVE SAMPLE — NOT A CLIENT RECORD",
+  "score": 87,
+  "rating": "Good",
+  "pointsInspected": 108,
+  "pointsTotal": 120,
+  "defects": 14,
+  "property": "Illustrative residential property, Nagpur",
+  "date": "01 October 2026 (example date)",
+  "severities": [
+    {
+      "id": "critical",
+      "label": "Critical",
+      "definition": "Potentially serious safety or property concern requiring prompt professional attention.",
+      "count": 1
+    },
+    {
+      "id": "major",
+      "label": "Major",
+      "definition": "Significant defect requiring corrective action.",
+      "count": 4
+    },
+    {
+      "id": "moderate",
+      "label": "Moderate",
+      "definition": "Noticeable defect affecting quality or functionality.",
+      "count": 6
+    },
+    {
+      "id": "minor",
+      "label": "Minor",
+      "definition": "Low-impact or primarily cosmetic observation.",
+      "count": 3
+    }
+  ],
+  "findings": [
+    {
+      "id": "D01",
+      "severity": "critical",
+      "location": "Kitchen",
+      "title": "Unfinished electrical outlet",
+      "observation": "Exposed conductors are visible at an unfinished outlet in this fictional example.",
+      "recommendation": "Do not use the point. Arrange prompt assessment and safe rectification by a qualified electrician."
+    },
+    {
+      "id": "D02",
+      "severity": "major",
+      "location": "Bedroom",
+      "title": "Hollow-sounding floor tiles",
+      "observation": "A cluster of tiles gives a hollow response during the example functional check.",
+      "recommendation": "Ask the builder to assess adhesion and arrange appropriate rectification."
+    },
+    {
+      "id": "D03",
+      "severity": "major",
+      "location": "Living room",
+      "title": "Moisture at the window reveal",
+      "observation": "Dampness indicators are noted at the wall-window junction in the illustrative scenario.",
+      "recommendation": "Investigate the source and agree rectification before repainting."
+    },
+    {
+      "id": "D04",
+      "severity": "major",
+      "location": "Terrace / wet area",
+      "title": "Persistent water pooling",
+      "observation": "Water remains near an accessible drainage junction in this example.",
+      "recommendation": "Have the contractor review drainage and relevant surface details."
+    },
+    {
+      "id": "D05",
+      "severity": "major",
+      "location": "Wall junction",
+      "title": "Visible crack requiring assessment",
+      "observation": "A visible crack at a junction merits a closer professional review in this example.",
+      "recommendation": "Arrange appropriate professional assessment; do not infer structural adequacy from a visual inspection."
+    },
+    {
+      "id": "D06",
+      "severity": "moderate",
+      "location": "Bathroom",
+      "title": "Incomplete grout joints",
+      "observation": "Gaps are visible in selected grout joints.",
+      "recommendation": "Have the affected joints prepared and made good with a suitable material."
+    },
+    {
+      "id": "D07",
+      "severity": "moderate",
+      "location": "Kitchen",
+      "title": "Leakage at accessible connection",
+      "observation": "Moisture is visible at an accessible pipe connection in the example.",
+      "recommendation": "Have a competent plumber review the connection and verify the completed work."
+    },
+    {
+      "id": "D08",
+      "severity": "moderate",
+      "location": "Bathroom",
+      "title": "Incomplete sealant joint",
+      "observation": "Sealant continuity is incomplete at an accessible junction.",
+      "recommendation": "Agree appropriate preparation and resealing after checking the underlying condition."
+    },
+    {
+      "id": "D09",
+      "severity": "moderate",
+      "location": "Window",
+      "title": "Visible sealing gaps",
+      "observation": "A localised gap is visible at the frame-to-wall seal.",
+      "recommendation": "Request inspection of the joint and a suitable sealing repair."
+    },
+    {
+      "id": "D10",
+      "severity": "moderate",
+      "location": "Balcony",
+      "title": "Loose accessible fitting",
+      "observation": "A fitting shows movement during an accessible functional check.",
+      "recommendation": "Have the fixing checked and rectified by the appropriate contractor."
+    },
+    {
+      "id": "D11",
+      "severity": "moderate",
+      "location": "Bedroom",
+      "title": "Uneven tile alignment",
+      "observation": "A noticeable level difference is recorded between adjacent tiles.",
+      "recommendation": "Review the extent with the builder and agree appropriate correction."
+    },
+    {
+      "id": "D12",
+      "severity": "minor",
+      "location": "Bedroom",
+      "title": "Patchy paint finish",
+      "observation": "Uneven paint coverage is visible under the example inspection lighting.",
+      "recommendation": "Prepare the surface and make good the finish."
+    },
+    {
+      "id": "D13",
+      "severity": "minor",
+      "location": "Living room",
+      "title": "Minor surface scratches",
+      "observation": "Local cosmetic scratches are visible on an accessible finish.",
+      "recommendation": "Agree a suitable cosmetic repair and protect the finished surface."
+    },
+    {
+      "id": "D14",
+      "severity": "minor",
+      "location": "Entrance",
+      "title": "Stiff door latch",
+      "observation": "The latch operates with avoidable resistance in this illustrative example.",
+      "recommendation": "Adjust the fitting and verify smooth operation."
+    }
+  ],
+  "ratings": [
+    {
+      "range": "90–100",
+      "label": "Excellent"
+    },
+    {
+      "range": "80–89",
+      "label": "Good"
+    },
+    {
+      "range": "70–79",
+      "label": "Fair"
+    },
+    {
+      "range": "60–69",
+      "label": "Needs Attention"
+    },
+    {
+      "range": "Below 60",
+      "label": "Critical"
+    }
+  ]
+}

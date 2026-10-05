@@ -1,0 +1,52 @@
+[
+  {
+    "id": "home-property",
+    "number": "01",
+    "name": "Home & Property Inspection",
+    "short": "Home & Property",
+    "icon": "Building2",
+    "description": "Know your home before you accept the keys. Visual, functional and detailed pre-possession inspections.",
+    "intro": "From a focused first check to a 100+ point handover inspection.",
+    "minPrice": 2999
+  },
+  {
+    "id": "moisture-seepage",
+    "number": "02",
+    "name": "Moisture & Seepage Inspection",
+    "short": "Moisture & Seepage",
+    "icon": "Droplets",
+    "description": "Understand dampness indicators with visual checks, moisture readings and further investigation where appropriate.",
+    "intro": "Look beyond fresh paint. Understand potential moisture concerns.",
+    "minPrice": 1499
+  },
+  {
+    "id": "civil-material",
+    "number": "03",
+    "name": "Civil & Material Testing",
+    "short": "Civil & Material Testing",
+    "icon": "Layers3",
+    "description": "Material assessment, test coordination and interpretation support, with professional fees separated from laboratory charges.",
+    "intro": "An agreed test scope. Clear documentation. No hidden laboratory assumptions.",
+    "minPrice": 999
+  },
+  {
+    "id": "property-consultancy",
+    "number": "04",
+    "name": "Property Audit & Technical Consultancy",
+    "short": "Audit & Consultancy",
+    "icon": "ClipboardCheck",
+    "description": "Review property condition, workmanship and technical concerns before an important property decision.",
+    "intro": "Independent observations for owners, investors and homebuyers.",
+    "minPrice": 999
+  },
+  {
+    "id": "reports-followup",
+    "number": "05",
+    "name": "Reports & Follow-up Services",
+    "short": "Reports & Follow-up",
+    "icon": "FileCheck2",
+    "description": "Turn observations into a clear report, builder-ready snag list and verification of rectification.",
+    "intro": "From documented concerns to a better-informed follow-up.",
+    "minPrice": 999
+  }
+]

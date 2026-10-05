@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "basic-home-inspection",
+    "name": "Basic Home Inspection",
+    "short": "Basic Home Inspection",
+    "categoryId": "home-property",
+    "icon": "Building2",
+    "amount": 2999,
+    "priceMode": "from",
+    "description": "A professional visual and functional inspection to identify common construction, finishing, electrical, plumbing and property-related defects.",
+    "why": "A focused starting point when you need an organised record of common visible and functional concerns, rather than a full PDI.",
+    "scope": [
+      "Basic civil inspection",
+      "Flooring & tiles",
+      "Doors & windows",
+      "Basic electrical checks",
+      "Plumbing checks",
+      "Kitchen inspection",
+      "Bathroom inspection",
+      "Visible seepage observations",
+      "Finishing inspection"
+    ],
+    "deliverables": [
+      "Photographic observations",
+      "Basic digital report",
+      "Practical recommendations within the agreed scope"
+    ],
+    "suitable": [
+      "Homebuyers seeking an initial review",
+      "Flat and apartment owners",
+      "Owners checking accessible finishing and functional concerns"
+    ],
+    "cta": "Book Basic Inspection",
+    "faq": [
+      {
+        "q": "How is Basic different from PDI?",
+        "a": "Basic is a visual and functional review. The 100+ point scope, CivicQC Inspection Score and 24-hour detailed report are included in PDI, not automatically in Basic."
+      },
+      {
+        "q": "Does Basic include moisture-meter testing?",
+        "a": "It includes visible seepage observations. A moisture-meter audit is a separate service unless expressly included in your agreed scope."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "BASIC DIGITAL REPORT",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Basic Home Inspection",
+    "cardItems": [
+      "Civil Quality",
+      "Flooring & Tiles",
+      "Electrical",
+      "Plumbing",
+      "Visible Seepage",
+      "Finishing"
+    ],
+    "highlights": ["Professional assessment", "Photo documentation", "Digital report"],
+    "exampleIds": ["D06", "D12", "D14"],
+    "seoTitle": "Basic Home Inspection in Nagpur | CivicQC Consultants",
+    "seoDescription": "A professional visual and functional inspection to identify common construction, finishing, electrical, plumbing and property-related defects. Explore basic home inspection in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "pre-delivery-inspection",
+    "name": "Pre-Delivery Inspection (PDI)",
+    "short": "Pre-Delivery Inspection",
+    "categoryId": "home-property",
+    "icon": "Building2",
+    "amount": 3999,
+    "priceMode": "pdi",
+    "description": "100+ Point Pre-Delivery Inspection before taking possession of your new home.",
+    "why": "Before accepting possession, get documented observations to support a clear rectification discussion with your builder.",
+    "scope": [
+      "100+ inspection points",
+      "Civil & finishing inspection",
+      "Flooring & tiles",
+      "Doors & windows",
+      "Electrical checks",
+      "Plumbing checks",
+      "Kitchen",
+      "Bathrooms",
+      "Visible seepage assessment",
+      "Moisture screening",
+      "Wall & ceiling observations"
+    ],
+    "deliverables": [
+      "Defect photography",
+      "Defect severity classification",
+      "CivicQC Inspection Score",
+      "Professional recommendations",
+      "Digital PDF report",
+      "Report within 24 hours of the completed inspection"
+    ],
+    "suitable": [
+      "New flat and apartment buyers",
+      "Pre-possession homebuyers",
+      "NRI buyers arranging a documented handover review"
+    ],
+    "cta": "Book PDI Inspection",
+    "faq": [
+      {
+        "q": "When should I book my PDI?",
+        "a": "Book when the property is ready for handover, before final acceptance. Safe access and working utilities help us complete the agreed functional checks."
+      },
+      {
+        "q": "What is included in the PDI price?",
+        "a": "The agreed inspection, photographs, severity classification, indicative Inspection Score, recommendations and digital PDF report are included. Separate specialist or laboratory tests require an additional agreed scope."
+      },
+      {
+        "q": "When will I receive my report?",
+        "a": "The PDI report is delivered within 24 hours of the completed site inspection. Separately commissioned laboratory results follow the laboratory’s agreed timeline."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "REPORT WITHIN 24 HOURS",
+    "scoreIncluded": true,
+    "variant": "pdi",
+    "cardTitle": "100+ Point Property Inspection",
+    "cardItems": [
+      "Civil Quality",
+      "Flooring & Tiles",
+      "Electrical",
+      "Plumbing",
+      "Moisture",
+      "Finishing"
+    ],
+    "highlights": ["Professional assessment", "Photo documentation", "Digital report"],
+    "exampleIds": ["D01", "D02", "D03"],
+    "seoTitle": "Pre-Delivery Inspection (PDI) in Nagpur | CivicQC Consultants",
+    "seoDescription": "100+ point PDI inspection in Nagpur before possession. Compare 1–4 BHK prices, inspection scope, photo-based reports and the indicative CivicQC Inspection Score.",
+    "popular": true
+  },
+  {
+    "id": "villa-row-house-inspection",
+    "name": "Villa / Row House Inspection",
+    "short": "Villa / Row House Inspection",
+    "categoryId": "home-property",
+    "icon": "Building2",
+    "amount": 9999,
+    "priceMode": "from",
+    "description": "A detailed review of accessible internal and external areas of your villa or row house, with a scope adapted to the property.",
+    "why": "Larger homes have more junctions, external exposure and service points. A property-specific scope helps document what needs attention.",
+    "scope": [
+      "Complete property inspection within the agreed scope",
+      "Internal areas",
+      "External areas",
+      "Terrace",
+      "Roof observations from safely accessible areas",
+      "Staircase",
+      "Parking",
+      "Balcony",
+      "Plumbing",
+      "Electrical",
+      "Civil works",
+      "Flooring",
+      "Doors & windows",
+      "Waterproofing observations",
+      "Moisture assessment"
+    ],
+    "deliverables": [
+      "Detailed photo report",
+      "Defect severity classification",
+      "CivicQC Inspection Score",
+      "Professional recommendations",
+      "Digital report within 24 hours of the completed property inspection"
+    ],
+    "suitable": ["Villa buyers", "Row house owners", "Owners of large residential properties"],
+    "cta": "Request Villa Inspection",
+    "faq": [
+      {
+        "q": "Are the terrace and roof included?",
+        "a": "Safely accessible terraces and roof observations are included in the agreed scope. Unsafe or inaccessible areas are recorded as limitations rather than assumed to be satisfactory."
+      },
+      {
+        "q": "Is ₹9,999 a fixed price for every villa?",
+        "a": "No. This is a starting price. Built-up area, external scope, location and specialist requirements influence the final quotation."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "REPORT WITHIN 24 HOURS",
+    "scoreIncluded": true,
+    "variant": "quality",
+    "cardTitle": "Villa / Row House Inspection",
+    "cardItems": [
+      "Internal Areas",
+      "External Areas",
+      "Terrace & Roof",
+      "Electrical",
+      "Plumbing",
+      "Moisture"
+    ],
+    "highlights": ["100+ point scope", "Detailed photo report", "Inspection Score"],
+    "exampleIds": ["D04", "D10", "D03"],
+    "seoTitle": "Villa / Row House Inspection in Nagpur | CivicQC Consultants",
+    "seoDescription": "A detailed review of accessible internal and external areas of your villa or row house, with a scope adapted to the property. Explore villa / row house inspection in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "seepage-inspection",
+    "name": "Basic Seepage Inspection",
+    "short": "Basic Seepage Inspection",
+    "categoryId": "moisture-seepage",
+    "icon": "Droplets",
+    "amount": 1499,
+    "priceMode": "onwards",
+    "description": "A focused visual inspection of dampness, seepage and accessible leakage indicators around your property.",
+    "why": "An early visual review can help identify areas that warrant closer investigation before you simply repaint or conceal the symptoms.",
+    "scope": [
+      "Wall seepage inspection",
+      "Ceiling inspection",
+      "Visible dampness",
+      "Bathroom seepage",
+      "Balcony seepage",
+      "Plumbing-related leakage indicators"
+    ],
+    "deliverables": [
+      "Photographic documentation",
+      "Basic recommendations",
+      "A record of visible areas of concern"
+    ],
+    "suitable": [
+      "Owners noticing damp patches",
+      "Residents with bathroom or balcony seepage concerns",
+      "Homebuyers seeking an initial seepage review"
+    ],
+    "cta": "Book Seepage Inspection",
+    "faq": [
+      {
+        "q": "Will this locate every concealed leak?",
+        "a": "No. This is a visual seepage review. Concealed pipework, membranes and the exact root cause may require separately agreed investigation."
+      },
+      {
+        "q": "Is a moisture meter included?",
+        "a": "Instrument readings are part of the Moisture Meter Audit. We will help you choose the appropriate scope before confirming your visit."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "moisture",
+    "cardTitle": "Basic Seepage Inspection",
+    "cardItems": ["Walls", "Ceilings", "Dampness", "Bathrooms", "Balconies", "Leakage Signs"],
+    "highlights": ["Visual seepage review", "Photo documentation", "Basic recommendations"],
+    "exampleIds": ["D03", "D08", "D07"],
+    "seoTitle": "Basic Seepage Inspection in Nagpur | CivicQC Consultants",
+    "seoDescription": "A focused visual inspection of dampness, seepage and accessible leakage indicators around your property. Explore basic seepage inspection in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "moisture-audit",
+    "name": "Moisture Meter Audit",
+    "short": "Moisture Meter Audit",
+    "categoryId": "moisture-seepage",
+    "icon": "Droplets",
+    "amount": 2499,
+    "priceMode": "onwards",
+    "description": "Advanced Moisture Detection using moisture-meter readings and a structured review of accessible dampness indicators.",
+    "why": "Instrument-assisted observations help build a clearer picture of moisture patterns than visual appearance alone.",
+    "scope": [
+      "Moisture meter readings",
+      "Wall moisture assessment",
+      "Ceiling moisture assessment",
+      "Dampness mapping",
+      "Bathroom moisture assessment",
+      "Balcony assessment",
+      "Suspected leakage areas"
+    ],
+    "deliverables": [
+      "Photo documentation",
+      "Moisture observations report",
+      "Recommendations for next steps within the agreed scope"
+    ],
+    "suitable": [
+      "Owners with recurring dampness",
+      "Buyers concerned about concealed-looking moisture symptoms",
+      "Properties with bathroom, balcony or wall moisture concerns"
+    ],
+    "cta": "Book Moisture Audit",
+    "faq": [
+      {
+        "q": "Are moisture readings a definitive diagnosis?",
+        "a": "No. Readings are indicative and affected by surface material and site conditions. They must be interpreted alongside observations and the agreed inspection method."
+      },
+      {
+        "q": "What happens if the source remains uncertain?",
+        "a": "The report identifies observed patterns and areas of concern. Further testing or opening-up works are recommended separately where appropriate."
+      }
+    ],
+    "note": "Moisture readings are indicative, not a guarantee of finding every concealed defect. The exact leakage source may require additional testing or opening-up works, agreed separately.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "moisture",
+    "cardTitle": "Advanced Moisture Detection",
+    "cardItems": [
+      "Moisture Readings",
+      "Wall Surfaces",
+      "Ceiling Areas",
+      "Dampness Map",
+      "Bathroom Areas",
+      "Photo Records"
+    ],
+    "highlights": ["Professional assessment", "Photo documentation", "Digital report"],
+    "exampleIds": ["D03", "D08", "D07"],
+    "seoTitle": "Moisture Meter Audit in Nagpur | CivicQC Consultants",
+    "seoDescription": "Advanced Moisture Detection using moisture-meter readings and a structured review of accessible dampness indicators. Explore moisture meter audit in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "advanced-moisture-investigation",
+    "name": "Advanced Moisture & Thermal Investigation",
+    "short": "Advanced Moisture & Thermal Investigation",
+    "categoryId": "moisture-seepage",
+    "icon": "Droplets",
+    "amount": 4999,
+    "priceMode": "onwards",
+    "description": "Helps identify abnormal moisture patterns and potential areas of concern through advanced assessment and thermal investigation where applicable.",
+    "why": "A more focused investigation can help narrow down areas requiring attention without representing surface patterns as proof of every concealed condition.",
+    "scope": [
+      "Advanced moisture assessment",
+      "Thermal investigation where applicable",
+      "Moisture mapping",
+      "Suspected leakage identification",
+      "Dampness analysis"
+    ],
+    "deliverables": [
+      "Photo documentation",
+      "Technical observations",
+      "Professional recommendations"
+    ],
+    "suitable": [
+      "Properties with recurring or complex moisture concerns",
+      "Owners needing a deeper investigation scope",
+      "Buyers seeking further assessment after an initial moisture review"
+    ],
+    "cta": "Request Advanced Inspection",
+    "faq": [
+      {
+        "q": "Is thermal investigation always used?",
+        "a": "No. Its suitability depends on access, conditions and the technical question. We agree the appropriate method before work begins."
+      },
+      {
+        "q": "Can this identify every concealed defect?",
+        "a": "No. It helps identify abnormal moisture patterns and potential areas of concern. Some causes remain concealed or require separately agreed invasive investigation."
+      }
+    ],
+    "note": "Thermal patterns and moisture observations are indicative and must be interpreted in context. This service does not guarantee detection of every concealed defect or every leakage source.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "moisture",
+    "cardTitle": "Advanced Moisture Investigation",
+    "cardItems": [
+      "Moisture Patterns",
+      "Thermal Review",
+      "Dampness Mapping",
+      "Leakage Indicators",
+      "Technical Notes",
+      "Recommendations"
+    ],
+    "highlights": ["Professional assessment", "Photo documentation", "Digital report"],
+    "exampleIds": ["D03", "D08", "D07"],
+    "seoTitle": "Advanced Moisture & Thermal Investigation in Nagpur | CivicQC Consultants",
+    "seoDescription": "Helps identify abnormal moisture patterns and potential areas of concern through advanced assessment and thermal investigation where applicable. Explore advanced moisture & thermal investigation in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "material-assessment",
+    "name": "Material Assessment",
+    "short": "Material Assessment",
+    "categoryId": "civil-material",
+    "icon": "Layers3",
+    "amount": 1499,
+    "priceMode": "onwards",
+    "description": "Visual assessment of construction materials, workmanship and material-related concerns, supported by clear technical observations.",
+    "why": "Document visible material and workmanship concerns before deciding whether specialist testing is needed.",
+    "scope": [
+      "Visual material assessment",
+      "Construction material observations",
+      "Workmanship assessment"
+    ],
+    "deliverables": ["Material-related documentation", "Photo evidence", "Technical observations"],
+    "suitable": [
+      "Homeowners reviewing construction quality",
+      "Buyers concerned about visible material issues",
+      "Owners discussing workmanship with a contractor"
+    ],
+    "cta": "Request Material Assessment",
+    "faq": [
+      {
+        "q": "Does a visual assessment certify material strength?",
+        "a": "No. Strength or composition may require an appropriate test. Visual assessment is not a substitute for laboratory results or structural design verification."
+      },
+      {
+        "q": "Are laboratory tests included?",
+        "a": "No laboratory test is automatically included. If testing is recommended, the professional scope and actual laboratory charges are quoted separately."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Material Assessment",
+    "cardItems": [
+      "Material Condition",
+      "Workmanship",
+      "Visible Concerns",
+      "Photo Evidence",
+      "Documentation",
+      "Technical Notes"
+    ],
+    "highlights": ["Visual assessment", "Photo evidence", "Technical observations"],
+    "exampleIds": ["T01", "T02", "T03"],
+    "seoTitle": "Material Assessment in Nagpur | CivicQC Consultants",
+    "seoDescription": "Visual assessment of construction materials, workmanship and material-related concerns, supported by clear technical observations. Explore material assessment in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "concrete-testing",
+    "name": "Concrete Testing",
+    "short": "Concrete Testing",
+    "categoryId": "civil-material",
+    "icon": "Layers3",
+    "amount": 999,
+    "priceMode": "plus-lab",
+    "description": "Concrete testing coordination, test-requirement review and documentation, with result interpretation support.",
+    "why": "Agree the test, sampling requirements and evidence needed before commissioning work.",
+    "scope": [
+      "Concrete testing coordination",
+      "Sample/test requirement assessment",
+      "Laboratory coordination"
+    ],
+    "deliverables": [
+      "Test documentation",
+      "Result interpretation support",
+      "Laboratory result records for the tests commissioned"
+    ],
+    "suitable": [
+      "Owners needing concrete-related test evidence",
+      "Construction projects requiring an agreed test scope",
+      "Clients seeking assistance with laboratory coordination"
+    ],
+    "cta": "Request Concrete Testing",
+    "faq": [
+      {
+        "q": "What does the ₹999 cover?",
+        "a": "₹999 is the CivicQC professional/coordination fee. Actual laboratory charges are additional and depend on the selected tests and laboratory."
+      },
+      {
+        "q": "How long will results take?",
+        "a": "Sample preparation, testing and laboratory reporting timelines are confirmed for the selected method. The 24-hour PDI report promise does not apply to laboratory results."
+      }
+    ],
+    "note": "Laboratory charges may vary depending on test type and laboratory. Methods, applicable standards, sample numbers, site requirements and interpretation scope are agreed before work begins.",
+    "duration": "Sampling, site-visit requirements and laboratory turnaround are confirmed for the selected tests.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Concrete Testing",
+    "cardItems": [
+      "Test Requirements",
+      "Sample Guidance",
+      "Lab Coordination",
+      "Documentation",
+      "Result Records",
+      "Interpretation"
+    ],
+    "highlights": ["Professional coordination", "Test documentation", "Result support"],
+    "exampleIds": ["T01", "T02", "T03"],
+    "seoTitle": "Concrete Testing in Nagpur | CivicQC Consultants",
+    "seoDescription": "Concrete testing coordination, test-requirement review and documentation, with result interpretation support. Explore concrete testing in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "concrete-ndt-testing",
+    "name": "Concrete NDT Testing",
+    "short": "Concrete NDT Testing",
+    "categoryId": "civil-material",
+    "icon": "Layers3",
+    "amount": 2499,
+    "priceMode": "onwards",
+    "description": "An agreed non-destructive testing scope for concrete, using applicable methods and site-specific assessment requirements.",
+    "why": "Select methods that address the technical question. NDT results need context and do not, by themselves, certify a structure.",
+    "scope": [
+      "Rebound Hammer Test, where applicable",
+      "UPV Test, where applicable",
+      "Other applicable NDT methods, subject to agreed scope",
+      "Site and method suitability assessment"
+    ],
+    "deliverables": [
+      "Method-specific observations and documentation",
+      "Result records for the agreed tests",
+      "Professional interpretation support within scope"
+    ],
+    "suitable": [
+      "Owners reviewing concrete-related concerns",
+      "Projects needing a suitable NDT scope",
+      "Clients seeking further evidence after an initial assessment"
+    ],
+    "cta": "Request NDT Assessment",
+    "faq": [
+      {
+        "q": "Are Rebound Hammer and UPV both included at the starting price?",
+        "a": "Not automatically. The method, test locations, number of readings and site requirements are agreed in the quotation."
+      },
+      {
+        "q": "Does NDT provide a structural stability certificate?",
+        "a": "No. Results support assessment within an agreed scope. Structural stability certification requires a separately qualified service and appropriate evidence."
+      }
+    ],
+    "note": "Final pricing depends on test type, property size and site requirements. Additional specialist or laboratory work, if required, is quoted separately.",
+    "duration": "Site duration and reporting are confirmed after agreeing the method and number of test locations.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Concrete NDT Testing",
+    "cardItems": [
+      "Method Selection",
+      "Rebound Hammer",
+      "UPV",
+      "Site Requirements",
+      "Test Records",
+      "Interpretation"
+    ],
+    "highlights": ["Agreed test methods", "Site-based scope", "Technical documentation"],
+    "exampleIds": ["T03", "T02", "T01"],
+    "seoTitle": "Concrete NDT Testing in Nagpur | CivicQC Consultants",
+    "seoDescription": "An agreed non-destructive testing scope for concrete, using applicable methods and site-specific assessment requirements. Explore concrete ndt testing in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "steel-testing",
+    "name": "Steel / Rebar Testing",
+    "short": "Steel / Rebar Testing",
+    "categoryId": "civil-material",
+    "icon": "Layers3",
+    "amount": 1499,
+    "priceMode": "plus-lab",
+    "description": "Steel / Rebar Testing coordination with sample/documentation assistance and laboratory result records for the agreed scope.",
+    "why": "Keep the selected steel/rebar tests, sample requirements and result documentation aligned with the project’s needs.",
+    "scope": ["Testing coordination", "Sample/documentation assistance", "Laboratory coordination"],
+    "deliverables": [
+      "Result documentation",
+      "Laboratory records for commissioned tests",
+      "Agreed technical observations"
+    ],
+    "suitable": [
+      "Projects requiring steel/rebar test evidence",
+      "Owners coordinating construction material tests",
+      "Clients seeking organised laboratory documentation"
+    ],
+    "cta": "Request Steel / Rebar Testing",
+    "faq": [
+      {
+        "q": "Are laboratory charges included in ₹1,499?",
+        "a": "No. ₹1,499 is the CivicQC professional/coordination fee. Actual laboratory charges depend on the required steel/rebar tests and laboratory."
+      },
+      {
+        "q": "Which tests and how many samples are needed?",
+        "a": "Requirements depend on the purpose and selected test method. Scope, sample numbers, applicable references and turnaround are agreed before testing."
+      }
+    ],
+    "note": "CivicQC professional fee + actual laboratory charges. Final laboratory charges depend on the required tests, sample quantities and the laboratory. No fixed laboratory price is implied.",
+    "duration": "Sample requirements and laboratory turnaround are confirmed before commissioning tests.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Steel / Rebar Testing",
+    "cardItems": [
+      "Test Scope",
+      "Sample Guidance",
+      "Documentation",
+      "Lab Coordination",
+      "Result Records",
+      "Technical Notes"
+    ],
+    "highlights": ["Professional coordination", "Sample documentation", "Laboratory coordination"],
+    "exampleIds": ["T01", "T02", "T03"],
+    "seoTitle": "Steel / Rebar Testing in Nagpur | CivicQC Consultants",
+    "seoDescription": "Steel / Rebar Testing coordination with sample/documentation assistance and laboratory result records for the agreed scope. Explore steel / rebar testing in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "cement-testing",
+    "name": "Cement Testing",
+    "short": "Cement Testing",
+    "categoryId": "civil-material",
+    "icon": "Layers3",
+    "amount": 999,
+    "priceMode": "plus-lab",
+    "description": "Cement Testing coordination with sample/documentation assistance and laboratory result records for the agreed scope.",
+    "why": "Keep the selected cement tests, sample requirements and result documentation aligned with the project’s needs.",
+    "scope": ["Testing coordination", "Sample/documentation assistance", "Laboratory coordination"],
+    "deliverables": [
+      "Result documentation",
+      "Laboratory records for commissioned tests",
+      "Agreed technical observations"
+    ],
+    "suitable": [
+      "Projects requiring cement test evidence",
+      "Owners coordinating construction material tests",
+      "Clients seeking organised laboratory documentation"
+    ],
+    "cta": "Request Cement Testing",
+    "faq": [
+      {
+        "q": "Are laboratory charges included in ₹999?",
+        "a": "No. ₹999 is the CivicQC professional/coordination fee. Actual laboratory charges depend on the required cement tests and laboratory."
+      },
+      {
+        "q": "Which tests and how many samples are needed?",
+        "a": "Requirements depend on the purpose and selected test method. Scope, sample numbers, applicable references and turnaround are agreed before testing."
+      }
+    ],
+    "note": "CivicQC professional fee + actual laboratory charges. Final laboratory charges depend on the required tests, sample quantities and the laboratory. No fixed laboratory price is implied.",
+    "duration": "Sample requirements and laboratory turnaround are confirmed before commissioning tests.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Cement Testing",
+    "cardItems": [
+      "Test Scope",
+      "Sample Guidance",
+      "Documentation",
+      "Lab Coordination",
+      "Result Records",
+      "Technical Notes"
+    ],
+    "highlights": ["Professional coordination", "Sample documentation", "Laboratory coordination"],
+    "exampleIds": ["T01", "T02", "T03"],
+    "seoTitle": "Cement Testing in Nagpur | CivicQC Consultants",
+    "seoDescription": "Cement Testing coordination with sample/documentation assistance and laboratory result records for the agreed scope. Explore cement testing in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "aggregate-testing",
+    "name": "Aggregate Testing",
+    "short": "Aggregate Testing",
+    "categoryId": "civil-material",
+    "icon": "Layers3",
+    "amount": 1499,
+    "priceMode": "plus-lab",
+    "description": "Aggregate Testing coordination with sample/documentation assistance and laboratory result records for the agreed scope.",
+    "why": "Keep the selected aggregate tests, sample requirements and result documentation aligned with the project’s needs.",
+    "scope": ["Testing coordination", "Sample/documentation assistance", "Laboratory coordination"],
+    "deliverables": [
+      "Result documentation",
+      "Laboratory records for commissioned tests",
+      "Agreed technical observations"
+    ],
+    "suitable": [
+      "Projects requiring aggregate test evidence",
+      "Owners coordinating construction material tests",
+      "Clients seeking organised laboratory documentation"
+    ],
+    "cta": "Request Aggregate Testing",
+    "faq": [
+      {
+        "q": "Are laboratory charges included in ₹1,499?",
+        "a": "No. ₹1,499 is the CivicQC professional/coordination fee. Actual laboratory charges depend on the required aggregate tests and laboratory."
+      },
+      {
+        "q": "Which tests and how many samples are needed?",
+        "a": "Requirements depend on the purpose and selected test method. Scope, sample numbers, applicable references and turnaround are agreed before testing."
+      }
+    ],
+    "note": "CivicQC professional fee + actual laboratory charges. Final laboratory charges depend on the required tests, sample quantities and the laboratory. No fixed laboratory price is implied.",
+    "duration": "Sample requirements and laboratory turnaround are confirmed before commissioning tests.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Aggregate Testing",
+    "cardItems": [
+      "Test Scope",
+      "Sample Guidance",
+      "Documentation",
+      "Lab Coordination",
+      "Result Records",
+      "Technical Notes"
+    ],
+    "highlights": ["Professional coordination", "Sample documentation", "Laboratory coordination"],
+    "exampleIds": ["T01", "T02", "T03"],
+    "seoTitle": "Aggregate Testing in Nagpur | CivicQC Consultants",
+    "seoDescription": "Aggregate Testing coordination with sample/documentation assistance and laboratory result records for the agreed scope. Explore aggregate testing in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "material-testing-package",
+    "name": "Complete Material Testing Package",
+    "short": "Complete Material Testing Package",
+    "categoryId": "civil-material",
+    "icon": "Layers3",
+    "amount": 7999,
+    "priceMode": "from-plus-lab",
+    "description": "A coordinated material-testing package tailored to your project and the evidence required, rather than a fixed list of laboratory tests.",
+    "why": "Coordinate related tests through one agreed scope while keeping professional fees and laboratory costs transparent.",
+    "scope": [
+      "Concrete testing, where selected",
+      "Cement testing, where selected",
+      "Aggregate testing, where selected",
+      "Steel/rebar testing, where selected",
+      "Applicable NDT testing, where selected",
+      "Laboratory coordination"
+    ],
+    "deliverables": [
+      "Documentation for the selected scope",
+      "Result records",
+      "Result interpretation support"
+    ],
+    "suitable": [
+      "Projects requiring several material tests",
+      "Owners seeking coordinated testing support",
+      "Construction-quality reviews with a defined technical scope"
+    ],
+    "cta": "Request Testing Package",
+    "faq": [
+      {
+        "q": "Does the package automatically include every test listed?",
+        "a": "No. The list describes possible scope. Selected methods, samples, site requirements and deliverables are confirmed in the quotation."
+      },
+      {
+        "q": "Are laboratory charges included in ₹7,999?",
+        "a": "Actual laboratory charges may be additional depending on the selected tests. CivicQC fees and applicable laboratory charges are shown separately."
+      }
+    ],
+    "note": "Starting from ₹7,999 + applicable laboratory charges. Actual laboratory charges may be additional depending on the selected tests. Final scope and costs are agreed before work begins.",
+    "duration": "The programme and reporting timeline depend on the selected tests and laboratory requirements.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Complete Material Testing Package",
+    "cardItems": [
+      "Concrete",
+      "Cement",
+      "Aggregates",
+      "Steel / Rebar",
+      "Applicable NDT",
+      "Documentation"
+    ],
+    "highlights": ["Scope-based package", "Lab coordination", "Result interpretation"],
+    "exampleIds": ["T01", "T02", "T03"],
+    "seoTitle": "Complete Material Testing Package in Nagpur | CivicQC Consultants",
+    "seoDescription": "A coordinated material-testing package tailored to your project and the evidence required, rather than a fixed list of laboratory tests. Explore complete material testing package in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "property-quality-audit",
+    "name": "Property Quality Audit",
+    "short": "Property Quality Audit",
+    "categoryId": "property-consultancy",
+    "icon": "ClipboardCheck",
+    "amount": 3999,
+    "priceMode": "onwards",
+    "description": "A basic property-quality audit of accessible civil condition, workmanship and functional concerns for an informed property decision.",
+    "why": "Understand visible condition and maintenance-related concerns before purchase, occupation or a repair discussion.",
+    "scope": [
+      "Civil condition",
+      "Visible cracks",
+      "Dampness",
+      "Flooring",
+      "Plumbing",
+      "Electrical",
+      "Doors & windows",
+      "Finishing"
+    ],
+    "deliverables": [
+      "Photographic observations",
+      "Basic report",
+      "Practical next steps within the agreed scope"
+    ],
+    "suitable": [
+      "Existing homes",
+      "Resale properties",
+      "Rental properties",
+      "Pre-purchase screening"
+    ],
+    "cta": "Book Property Audit",
+    "faq": [
+      {
+        "q": "Is this a legal or valuation report?",
+        "a": "No. It is an inspection of accessible physical condition within the agreed scope. Legal due diligence, valuation and title checks are separate."
+      },
+      {
+        "q": "Is the Inspection Score included?",
+        "a": "The basic audit includes a basic report. The Comprehensive Property Audit includes the CivicQC Inspection Score, detailed severity classification and a detailed PDF report."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "BASIC PROPERTY REPORT",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Property Quality Assessment",
+    "cardItems": [
+      "Civil Condition",
+      "Visible Cracks",
+      "Dampness",
+      "Electrical",
+      "Plumbing",
+      "Finishing"
+    ],
+    "highlights": ["Professional assessment", "Photo documentation", "Digital report"],
+    "exampleIds": ["D05", "D07", "D12"],
+    "seoTitle": "Property Quality Audit in Nagpur | CivicQC Consultants",
+    "seoDescription": "A basic property-quality audit of accessible civil condition, workmanship and functional concerns for an informed property decision. Explore property quality audit in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "comprehensive-property-audit",
+    "name": "Comprehensive Property Audit",
+    "short": "Comprehensive Property Audit",
+    "categoryId": "property-consultancy",
+    "icon": "ClipboardCheck",
+    "amount": 6999,
+    "priceMode": "onwards",
+    "description": "An in-depth property-quality review with detailed observations, severity classification and an indicative CivicQC Inspection Score.",
+    "why": "Bring workmanship, moisture and functional observations into one structured record to help prioritise next steps.",
+    "scope": [
+      "Detailed civil inspection",
+      "Moisture assessment",
+      "Electrical checks",
+      "Plumbing checks",
+      "Flooring & finishing",
+      "Doors & windows",
+      "Kitchen",
+      "Bathrooms",
+      "Safety observations"
+    ],
+    "deliverables": [
+      "Detailed photographs",
+      "Defect severity classification",
+      "CivicQC Inspection Score",
+      "Professional recommendations",
+      "Detailed PDF report"
+    ],
+    "suitable": [
+      "Owners wanting a detailed condition record",
+      "Resale and pre-purchase buyers needing deeper assessment",
+      "Investors reviewing property quality"
+    ],
+    "cta": "Book Comprehensive Audit",
+    "faq": [
+      {
+        "q": "What makes this more detailed than the basic audit?",
+        "a": "It adds a more detailed scope, moisture assessment, severity classification, an indicative Inspection Score and a detailed PDF with recommendations."
+      },
+      {
+        "q": "Does a good score mean the property is completely safe?",
+        "a": "No. The score is indicative, based on inspected components and defined criteria. Critical findings still require prompt attention; concealed defects and structural stability are not certified."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": true,
+    "variant": "quality",
+    "cardTitle": "Complete Property Quality Assessment",
+    "cardItems": [
+      "Civil Quality",
+      "Moisture",
+      "Electrical",
+      "Plumbing",
+      "Safety Observations",
+      "Finishing"
+    ],
+    "highlights": ["Professional assessment", "Photo documentation", "Digital report"],
+    "exampleIds": ["D01", "D03", "D05"],
+    "seoTitle": "Comprehensive Property Audit in Nagpur | CivicQC Consultants",
+    "seoDescription": "An in-depth property-quality review with detailed observations, severity classification and an indicative CivicQC Inspection Score. Explore comprehensive property audit in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "technical-consultation",
+    "name": "Technical Site Consultation",
+    "short": "Technical Site Consultation",
+    "categoryId": "property-consultancy",
+    "icon": "ClipboardCheck",
+    "amount": 1499,
+    "priceMode": "onwards",
+    "description": "A site visit and initial technical discussion focused on construction quality, observed defects and practical next steps.",
+    "why": "Get a clearer starting point for a technical concern before commissioning a broader inspection or specialist service.",
+    "scope": [
+      "Site visit",
+      "Initial technical assessment",
+      "Construction quality discussion",
+      "Defect discussion"
+    ],
+    "deliverables": ["Professional recommendations", "Consultation summary"],
+    "suitable": [
+      "Property owners with site-specific concerns",
+      "Homebuyers seeking an initial technical review",
+      "Owners discussing construction or renovation quality"
+    ],
+    "cta": "Book Consultation",
+    "faq": [
+      {
+        "q": "Is a full inspection included?",
+        "a": "This is an initial consultation within an agreed scope, not automatically a full PDI, laboratory investigation or structural design review."
+      },
+      {
+        "q": "What if I need specialised engineering advice?",
+        "a": "Contact CivicQC for a customized quotation. Appropriate qualifications, requirements and scope must be agreed for specialised engineering work."
+      }
+    ],
+    "note": "Contact CivicQC for a customized quotation for specialized engineering requirements. A consultation is not an absolute safety certification or substitute for a separately qualified structural assessment.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Technical Site Consultation",
+    "cardItems": [
+      "Site Review",
+      "Quality Discussion",
+      "Defect Discussion",
+      "Initial Assessment",
+      "Recommendations",
+      "Summary"
+    ],
+    "highlights": ["Site consultation", "Defined technical scope", "Consultation summary"],
+    "exampleIds": ["D05", "D03", "D14"],
+    "seoTitle": "Technical Site Consultation in Nagpur | CivicQC Consultants",
+    "seoDescription": "A site visit and initial technical discussion focused on construction quality, observed defects and practical next steps. Explore technical site consultation in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "technical-consultation-session",
+    "name": "Technical Consultation Session",
+    "short": "Technical Consultation Session",
+    "categoryId": "property-consultancy",
+    "icon": "ClipboardCheck",
+    "amount": 999,
+    "priceMode": "session",
+    "description": "A focused consultation session to discuss property, renovation and construction-quality questions and agree informed next steps.",
+    "why": "Start with a conversation when you need help choosing an inspection or understanding a property-quality concern.",
+    "scope": [
+      "Homebuyer questions",
+      "Property-quality concerns",
+      "Home renovation decisions",
+      "Construction quality discussion",
+      "Defect-related questions"
+    ],
+    "deliverables": ["Guidance within the agreed consultation scope", "Recommended next steps"],
+    "suitable": [
+      "Homebuyers",
+      "Property owners",
+      "Home renovation decisions",
+      "Construction quality concerns",
+      "Defect-related questions"
+    ],
+    "cta": "Book Consultation",
+    "faq": [
+      {
+        "q": "How long is a session and how is it held?",
+        "a": "The duration, format and availability are confirmed when the scope is agreed. The published price is ₹999 per session."
+      },
+      {
+        "q": "Does a session include a site inspection or formal report?",
+        "a": "Not automatically. Site visits, full inspections, testing and detailed technical reports have separate scopes and pricing."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Session length and format are confirmed before booking.",
+    "reportTime": "₹999 / SESSION",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Technical Consultation Session",
+    "cardItems": [
+      "Homebuyer Questions",
+      "Renovation Decisions",
+      "Quality Concerns",
+      "Defect Discussion",
+      "Agreed Scope",
+      "Next Steps"
+    ],
+    "highlights": ["Focused consultation", "Professional guidance", "Agreed session scope"],
+    "exampleIds": ["D06", "D12", "D14"],
+    "seoTitle": "Technical Consultation Session in Nagpur | CivicQC Consultants",
+    "seoDescription": "A focused consultation session to discuss property, renovation and construction-quality questions and agree informed next steps. Explore technical consultation session in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "technical-report",
+    "name": "Detailed Technical Report",
+    "short": "Detailed Technical Report",
+    "categoryId": "reports-followup",
+    "icon": "FileCheck2",
+    "amount": 1499,
+    "priceMode": "onwards",
+    "description": "Clear technical documentation that brings agreed inspection records, photographs, observations and recommendations into a professional report.",
+    "why": "A readable document makes it easier to understand the evidence, prioritise concerns and discuss the next steps.",
+    "scope": [
+      "Property information",
+      "Inspection date",
+      "Inspection summary",
+      "Defect photographs",
+      "Observations",
+      "Severity classification",
+      "Recommendations",
+      "Conclusion"
+    ],
+    "deliverables": [
+      "A structured digital technical report",
+      "Traceable observations and supporting photographs",
+      "Clear recommendations and conclusion"
+    ],
+    "suitable": [
+      "Owners requiring organised technical documentation",
+      "Clients compiling findings for rectification discussions",
+      "Properties with an agreed inspection record"
+    ],
+    "cta": "Request Technical Report",
+    "faq": [
+      {
+        "q": "Is this charged again when a PDI already includes a report?",
+        "a": "No. A PDI’s included digital report is part of that service. This listing is for separately agreed technical-report work, not an automatic add-on charge."
+      },
+      {
+        "q": "Can a report be issued without any inspection information?",
+        "a": "A report needs an agreed, adequate evidence base. Any fresh visit, information gaps or further investigation requirements are discussed before confirming scope."
+      }
+    ],
+    "note": "The report reflects the evidence, scope and access recorded. It is not a legal opinion, a property warranty or an absolute safety certificate.",
+    "duration": "Preparation time is agreed after reviewing the evidence and reporting scope.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Detailed Technical Report",
+    "cardItems": [
+      "Property Details",
+      "Inspection Summary",
+      "Photographs",
+      "Observations",
+      "Severity",
+      "Recommendations"
+    ],
+    "highlights": ["Structured documentation", "Four severity levels", "Digital report"],
+    "exampleIds": ["D01", "D03", "D12"],
+    "seoTitle": "Detailed Technical Report in Nagpur | CivicQC Consultants",
+    "seoDescription": "Clear technical documentation that brings agreed inspection records, photographs, observations and recommendations into a professional report. Explore detailed technical report in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "builder-snag-list",
+    "name": "Builder Defect / Snag List",
+    "short": "Builder Defect / Snag List",
+    "categoryId": "reports-followup",
+    "icon": "FileCheck2",
+    "amount": 999,
+    "priceMode": "onwards",
+    "description": "A room-wise, builder-ready checklist that organises observed defects, supporting photographs and recommended rectification.",
+    "why": "Make rectification discussions specific: what the concern is, where it is, and what needs further attention.",
+    "scope": [
+      "Defect identification within agreed scope",
+      "Room-wise snag list",
+      "Photo documentation",
+      "Defect severity",
+      "Recommended rectification",
+      "Builder-ready checklist"
+    ],
+    "deliverables": [
+      "Organised snag documentation",
+      "Location-linked observations and photographs",
+      "A practical rectification checklist"
+    ],
+    "suitable": [
+      "Homebuyers discussing handover defects",
+      "Owners requesting contractor rectification",
+      "Clients needing an organised snag record"
+    ],
+    "cta": "Create Snag List",
+    "faq": [
+      {
+        "q": "Does ₹999 include a complete 100+ point PDI?",
+        "a": "No. This is starting pricing for snag-list work. The evidence base and whether a fresh site visit is needed are agreed separately."
+      },
+      {
+        "q": "Can I verify rectification afterwards?",
+        "a": "Yes. Re-Inspection is available separately to review previously reported defects and document rectification status."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Timing depends on the number of observations and whether an additional visit is required.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Builder Defect / Snag List",
+    "cardItems": [
+      "Room-wise Snags",
+      "Photographs",
+      "Defect Severity",
+      "Rectification",
+      "Builder Checklist",
+      "Follow-up Scope"
+    ],
+    "highlights": ["Professional assessment", "Photo documentation", "Digital report"],
+    "exampleIds": ["D02", "D06", "D14"],
+    "seoTitle": "Builder Defect / Snag List in Nagpur | CivicQC Consultants",
+    "seoDescription": "A room-wise, builder-ready checklist that organises observed defects, supporting photographs and recommended rectification. Explore builder defect / snag list in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  },
+  {
+    "id": "re-inspection",
+    "name": "Re-Inspection",
+    "short": "Re-Inspection",
+    "categoryId": "reports-followup",
+    "icon": "FileCheck2",
+    "amount": 1499,
+    "priceMode": "onwards",
+    "description": "A follow-up review after your builder or contractor has addressed previously reported defects.",
+    "why": "Close the loop with evidence. Check the reported work rather than relying only on a verbal assurance that it is complete.",
+    "scope": [
+      "Previous defects verification",
+      "Rectification status",
+      "New visible observations",
+      "Before/after comparison where applicable"
+    ],
+    "deliverables": [
+      "Updated report",
+      "Updated inspection status",
+      "A record of items requiring further attention"
+    ],
+    "suitable": [
+      "Owners after builder rectification",
+      "Buyers verifying handover repairs",
+      "Clients with a previous inspection or defect record"
+    ],
+    "cta": "Book Re-Inspection",
+    "faq": [
+      {
+        "q": "What should I share before re-inspection?",
+        "a": "Share the previous report or defect list and the rectification information. This helps define the follow-up scope and relevant comparison points."
+      },
+      {
+        "q": "Is re-inspection a guarantee that every issue is resolved?",
+        "a": "No. It records accessible conditions and the status of the agreed items at the time of the visit. New or concealed concerns may require separate scope."
+      }
+    ],
+    "note": "Assessment is limited to the agreed scope, safe access and conditions at the time of the visit. It is not a structural stability certificate, absolute safety certification or guarantee against concealed defects.",
+    "duration": "Visit duration is confirmed after reviewing property size, access and the agreed scope.",
+    "reportTime": "TIMELINE AGREED IN ADVANCE",
+    "scoreIncluded": false,
+    "variant": "quality",
+    "cardTitle": "Re-Inspection",
+    "cardItems": [
+      "Previous Defects",
+      "Rectification",
+      "Visible Changes",
+      "Before / After",
+      "Updated Report",
+      "Updated Status"
+    ],
+    "highlights": ["Rectification review", "Updated documentation", "Clear follow-up status"],
+    "exampleIds": ["D03", "D06", "D14"],
+    "seoTitle": "Re-Inspection in Nagpur | CivicQC Consultants",
+    "seoDescription": "A follow-up review after your builder or contractor has addressed previously reported defects. Explore re-inspection in Nagpur with CivicQC. Review the scope, pricing and deliverables before booking."
+  }
+]
